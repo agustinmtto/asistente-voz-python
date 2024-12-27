@@ -1,4 +1,4 @@
-# Asistente Virtual Personal en Python
+# Asistente de Voz Personal en Python
 
 Este es un asistente virtual personal simple desarrollado en Python. Utiliza reconocimiento de voz, síntesis de voz y varias bibliotecas para realizar tareas básicas a través de comandos de voz.
 
